@@ -1,0 +1,101 @@
+Sample_ID,Graphene_Type,Polymer_Type,Density (g/cm^3),Initial_Viscosity (Pa.s),Viscosity_After_Shear (Pa.s),Thermal_Conductivity (W/mK),Elastic_Modulus (GPa),Plasticity_Index,Shear_Stress_Response,Application_in_Robotics
+1,Graphene Nanoplatelets,Polyvinyl Alcohol,0.881,1252.83,275.33,0.55,2.51,0.05,High,Shock Absorber
+2,Graphene Oxide,Polyvinyl Alcohol,0.813,165.41,117.16,0.17,2.15,0.37,Medium,Hydraulic Actuator
+3,Graphene Nanoplatelets,Polyvinyl Alcohol,0.851,1591.83,863.36,0.36,2.61,0.09,High,Shock Absorber
+4,Graphene Nanoplatelets,Polyethylene Glycol,0.849,804.92,906.91,0.22,2.85,0.28,Low,Hydraulic Actuator
+5,Graphene Oxide,Polyvinyl Alcohol,0.939,519.34,446.3,0.39,2.17,0.42,Medium,Temperature Regulator
+6,Graphene Oxide,Polyvinyl Alcohol,0.942,1425.24,564.67,0.53,8.88,0.04,Low,Temperature Regulator
+7,Graphene Nanoplatelets,Polyethylene Glycol,0.83,1221.58,749.77,0.54,7.67,0.27,High,Shock Absorber
+8,Reduced Graphene Oxide,Polyvinyl Alcohol,1.0,1529.61,148.06,0.22,0.57,0.12,High,Hydraulic Actuator
+9,Graphene Nanoplatelets,Polyethylene Glycol,0.853,596.13,1049.15,0.55,2.79,0.17,High,Shock Absorber
+10,Graphene Nanoplatelets,Polystyrene,0.995,929.15,986.68,0.4,0.32,0.24,Low,Shock Absorber
+11,Graphene Nanoplatelets,Polyvinyl Alcohol,0.882,958.44,360.89,0.28,5.08,0.18,Low,Hydraulic Actuator
+12,Graphene Nanoplatelets,Polystyrene,0.807,1570.5,115.3,0.45,4.86,0.32,Low,Hydraulic Actuator
+13,Graphene Oxide,Polyethylene Glycol,0.869,213.02,1033.44,0.34,8.41,0.24,Low,Hydraulic Actuator
+14,Graphene Nanoplatelets,Polyvinyl Alcohol,0.927,558.55,601.04,0.29,3.18,0.29,High,Temperature Regulator
+15,Reduced Graphene Oxide,Polyethylene Glycol,0.936,386.37,639.38,0.45,8.26,0.37,High,Shock Absorber
+16,Graphene Oxide,Polystyrene,0.906,502.71,783.96,0.22,9.78,0.28,Medium,Shock Absorber
+17,Reduced Graphene Oxide,Polyethylene Glycol,0.89,827.92,715.85,0.27,0.98,0.29,Medium,Temperature Regulator
+18,Reduced Graphene Oxide,Polyvinyl Alcohol,0.911,659.03,1043.89,0.32,8.02,0.28,Low,Hydraulic Actuator
+19,Reduced Graphene Oxide,Polyvinyl Alcohol,0.919,692.04,1044.25,0.23,6.0,0.19,High,Temperature Regulator
+20,Reduced Graphene Oxide,Polystyrene,0.816,1366.32,967.2,0.3,4.9,0.17,High,Temperature Regulator
+21,Graphene Oxide,Polyethylene Glycol,0.874,1495.03,736.4,0.39,4.31,0.45,High,Temperature Regulator
+22,Graphene Oxide,Polyvinyl Alcohol,0.848,205.62,900.95,0.47,7.95,0.3,Medium,Shock Absorber
+23,Reduced Graphene Oxide,Polystyrene,0.961,413.38,777.17,0.48,6.49,0.12,Medium,Temperature Regulator
+24,Reduced Graphene Oxide,Polyvinyl Alcohol,0.894,1106.72,673.37,0.51,8.15,0.25,High,Shock Absorber
+25,Graphene Oxide,Polyvinyl Alcohol,0.997,637.97,228.5,0.47,9.13,0.17,High,Shock Absorber
+26,Graphene Oxide,Polyethylene Glycol,0.88,481.25,911.2,0.44,6.27,0.47,High,Shock Absorber
+27,Graphene Oxide,Polyvinyl Alcohol,0.963,542.94,920.64,0.22,9.9,0.0,Medium,Hydraulic Actuator
+28,Graphene Nanoplatelets,Polyethylene Glycol,0.96,583.83,725.94,0.3,6.18,0.11,High,Shock Absorber
+29,Graphene Nanoplatelets,Polyvinyl Alcohol,0.83,1373.0,920.43,0.34,6.47,0.18,High,Shock Absorber
+30,Graphene Nanoplatelets,Polystyrene,0.902,304.93,751.48,0.14,5.65,0.24,Low,Hydraulic Actuator
+31,Reduced Graphene Oxide,Polyvinyl Alcohol,0.939,1163.37,306.68,0.36,1.01,0.43,Low,Shock Absorber
+32,Graphene Nanoplatelets,Polyethylene Glycol,0.972,929.23,373.96,0.32,7.36,0.04,Medium,Temperature Regulator
+33,Reduced Graphene Oxide,Polyethylene Glycol,0.865,544.77,314.59,0.5,5.57,0.4,High,Temperature Regulator
+34,Reduced Graphene Oxide,Polystyrene,0.844,729.67,477.26,0.59,4.61,0.03,High,Shock Absorber
+35,Graphene Nanoplatelets,Polyvinyl Alcohol,0.942,484.31,138.96,0.38,9.2,0.42,Low,Hydraulic Actuator
+36,Reduced Graphene Oxide,Polyvinyl Alcohol,0.962,1017.27,718.25,0.26,3.08,0.03,Medium,Temperature Regulator
+37,Graphene Nanoplatelets,Polystyrene,0.87,222.39,436.55,0.12,5.34,0.01,Low,Hydraulic Actuator
+38,Graphene Nanoplatelets,Polyvinyl Alcohol,0.819,107.78,755.72,0.56,7.08,0.35,Low,Hydraulic Actuator
+39,Graphene Oxide,Polyvinyl Alcohol,0.988,1041.84,485.4,0.56,8.06,0.5,Low,Temperature Regulator
+40,Graphene Nanoplatelets,Polyethylene Glycol,0.88,391.41,781.61,0.23,4.69,0.45,Low,Hydraulic Actuator
+41,Graphene Oxide,Polyvinyl Alcohol,0.904,206.41,440.62,0.45,8.52,0.29,High,Temperature Regulator
+42,Graphene Nanoplatelets,Polyvinyl Alcohol,0.968,695.18,360.69,0.14,7.79,0.46,High,Hydraulic Actuator
+43,Graphene Nanoplatelets,Polystyrene,0.935,176.15,596.04,0.18,0.76,0.0,Low,Temperature Regulator
+44,Graphene Oxide,Polystyrene,0.947,1429.93,792.89,0.21,0.56,0.49,Medium,Shock Absorber
+45,Graphene Oxide,Polyethylene Glycol,0.842,141.43,448.34,0.25,6.31,0.25,Medium,Temperature Regulator
+46,Graphene Nanoplatelets,Polyvinyl Alcohol,0.908,968.3,1036.65,0.6,3.57,0.36,Medium,Temperature Regulator
+47,Reduced Graphene Oxide,Polyvinyl Alcohol,0.939,757.71,139.19,0.45,2.19,0.41,Medium,Temperature Regulator
+48,Graphene Oxide,Polyvinyl Alcohol,0.846,1108.04,517.95,0.29,5.9,0.36,Low,Temperature Regulator
+49,Reduced Graphene Oxide,Polyethylene Glycol,0.835,592.23,1067.58,0.47,3.52,0.27,High,Hydraulic Actuator
+50,Reduced Graphene Oxide,Polyethylene Glycol,0.996,332.56,647.97,0.56,5.47,0.24,Medium,Shock Absorber
+51,Reduced Graphene Oxide,Polystyrene,0.903,1572.76,523.47,0.58,4.7,0.42,Low,Temperature Regulator
+52,Graphene Oxide,Polyethylene Glycol,0.852,1358.4,668.52,0.13,5.95,0.1,Medium,Hydraulic Actuator
+53,Reduced Graphene Oxide,Polyvinyl Alcohol,0.999,1390.61,675.92,0.3,4.1,0.48,Medium,Shock Absorber
+54,Graphene Oxide,Polyvinyl Alcohol,0.993,475.38,831.65,0.15,7.08,0.36,Low,Shock Absorber
+55,Reduced Graphene Oxide,Polyethylene Glycol,0.912,158.25,227.69,0.27,1.9,0.1,High,Shock Absorber
+56,Graphene Nanoplatelets,Polyvinyl Alcohol,0.977,554.9,350.02,0.18,7.07,0.37,High,Shock Absorber
+57,Graphene Nanoplatelets,Polyvinyl Alcohol,0.838,905.62,680.54,0.42,4.22,0.26,Low,Temperature Regulator
+58,Graphene Oxide,Polyethylene Glycol,0.856,589.98,967.12,0.29,8.84,0.35,High,Temperature Regulator
+59,Graphene Nanoplatelets,Polyethylene Glycol,0.94,1341.8,661.87,0.21,5.25,0.38,Low,Hydraulic Actuator
+60,Graphene Nanoplatelets,Polyvinyl Alcohol,0.969,507.31,338.6,0.23,9.83,0.04,Low,Hydraulic Actuator
+61,Reduced Graphene Oxide,Polyvinyl Alcohol,0.971,1547.88,779.84,0.28,6.12,0.25,Low,Hydraulic Actuator
+62,Graphene Oxide,Polyvinyl Alcohol,0.881,785.9,839.91,0.23,2.34,0.47,High,Shock Absorber
+63,Reduced Graphene Oxide,Polystyrene,0.978,1363.03,338.24,0.33,8.32,0.16,Low,Shock Absorber
+64,Reduced Graphene Oxide,Polystyrene,0.97,391.57,477.73,0.12,3.55,0.3,Medium,Temperature Regulator
+65,Reduced Graphene Oxide,Polystyrene,0.987,717.03,634.33,0.24,3.58,0.18,High,Shock Absorber
+66,Reduced Graphene Oxide,Polyethylene Glycol,0.957,1149.27,596.56,0.31,0.42,0.23,High,Shock Absorber
+67,Reduced Graphene Oxide,Polystyrene,0.934,307.53,489.62,0.4,5.59,0.27,High,Shock Absorber
+68,Reduced Graphene Oxide,Polyethylene Glycol,0.916,299.12,397.64,0.24,5.44,0.27,High,Hydraulic Actuator
+69,Reduced Graphene Oxide,Polyethylene Glycol,0.874,1554.31,199.98,0.17,3.66,0.1,Medium,Hydraulic Actuator
+70,Graphene Oxide,Polystyrene,0.988,1171.89,153.49,0.14,9.04,0.34,High,Temperature Regulator
+71,Graphene Nanoplatelets,Polystyrene,0.995,161.6,1058.54,0.57,1.39,0.04,High,Shock Absorber
+72,Reduced Graphene Oxide,Polystyrene,0.857,698.23,947.14,0.31,3.4,0.07,Low,Shock Absorber
+73,Reduced Graphene Oxide,Polyvinyl Alcohol,0.861,750.28,454.91,0.39,3.32,0.0,High,Temperature Regulator
+74,Reduced Graphene Oxide,Polystyrene,0.897,1216.06,1056.8,0.56,1.02,0.06,Medium,Shock Absorber
+75,Reduced Graphene Oxide,Polyvinyl Alcohol,0.89,476.29,776.77,0.14,4.91,0.24,Medium,Shock Absorber
+76,Reduced Graphene Oxide,Polyethylene Glycol,0.999,376.5,582.52,0.54,6.98,0.3,Medium,Hydraulic Actuator
+77,Reduced Graphene Oxide,Polyvinyl Alcohol,0.835,221.31,593.03,0.38,5.22,0.4,Medium,Temperature Regulator
+78,Graphene Nanoplatelets,Polystyrene,0.804,742.47,183.28,0.18,1.67,0.05,High,Temperature Regulator
+79,Graphene Nanoplatelets,Polyethylene Glycol,0.899,1132.75,191.7,0.31,3.87,0.43,High,Temperature Regulator
+80,Reduced Graphene Oxide,Polyethylene Glycol,0.836,187.29,702.44,0.49,0.13,0.37,Medium,Temperature Regulator
+81,Graphene Nanoplatelets,Polyethylene Glycol,0.873,1472.82,653.7,0.34,8.78,0.2,Medium,Hydraulic Actuator
+82,Graphene Oxide,Polyvinyl Alcohol,0.949,763.53,312.73,0.59,0.95,0.47,High,Hydraulic Actuator
+83,Reduced Graphene Oxide,Polystyrene,0.944,459.68,1046.19,0.29,6.07,0.5,Medium,Shock Absorber
+84,Graphene Oxide,Polyethylene Glycol,0.862,240.81,881.3,0.47,9.96,0.1,Low,Shock Absorber
+85,Graphene Oxide,Polyethylene Glycol,0.909,374.3,213.46,0.3,5.47,0.19,Medium,Shock Absorber
+86,Reduced Graphene Oxide,Polyethylene Glycol,0.902,1501.92,1030.93,0.51,9.34,0.46,Medium,Shock Absorber
+87,Graphene Nanoplatelets,Polyvinyl Alcohol,0.927,1057.41,1074.25,0.38,2.46,0.36,Low,Hydraulic Actuator
+88,Graphene Oxide,Polyvinyl Alcohol,0.85,875.04,1095.93,0.13,7.7,0.02,Low,Temperature Regulator
+89,Reduced Graphene Oxide,Polystyrene,0.918,1085.67,155.87,0.12,5.41,0.39,High,Hydraulic Actuator
+90,Graphene Oxide,Polyvinyl Alcohol,0.996,753.51,837.04,0.17,7.31,0.41,High,Shock Absorber
+91,Graphene Oxide,Polyethylene Glycol,0.897,1195.06,645.92,0.11,0.72,0.38,Low,Hydraulic Actuator
+92,Graphene Oxide,Polystyrene,0.981,171.57,805.83,0.14,1.58,0.4,Low,Temperature Regulator
+93,Graphene Oxide,Polyethylene Glycol,0.887,949.06,1068.65,0.45,1.43,0.41,High,Temperature Regulator
+94,Graphene Nanoplatelets,Polyethylene Glycol,0.87,337.97,788.03,0.37,6.97,0.09,Medium,Hydraulic Actuator
+95,Graphene Oxide,Polyvinyl Alcohol,0.929,280.25,936.96,0.47,8.54,0.12,Low,Hydraulic Actuator
+96,Graphene Oxide,Polystyrene,0.934,612.82,966.87,0.56,7.6,0.32,High,Hydraulic Actuator
+97,Graphene Oxide,Polyvinyl Alcohol,0.973,237.7,938.48,0.39,0.4,0.45,Medium,Shock Absorber
+98,Graphene Nanoplatelets,Polyvinyl Alcohol,0.846,241.24,526.09,0.46,8.77,0.16,Low,Hydraulic Actuator
+99,Graphene Oxide,Polystyrene,0.9,567.12,322.58,0.48,3.64,0.29,Medium,Hydraulic Actuator
+100,Graphene Oxide,Polyethylene Glycol,0.914,1569.27,496.65,0.29,4.07,0.34,High,Hydraulic Actuator
